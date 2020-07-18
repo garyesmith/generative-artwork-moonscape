@@ -4,6 +4,8 @@ A Processing.js/Canvas code-generated landscape featuring a moon and trees refle
 
 This is a simplified version of the code used to generate the Moonscape artworks on https://www.genartive.com.
 
+![Sample Moonscape artwork](https://www.genartive.com/thumbs/moonscape/350/729258246.png)
+
 # Dependencies
 Artwork is rendered to an HTML Canvas by a Processing.js script, which is the Javascript adaptation of the Processing language. 
 
