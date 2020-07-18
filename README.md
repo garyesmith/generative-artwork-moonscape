@@ -9,7 +9,7 @@ This is a simplified version of the code used to generate the Moonscape artworks
 # Dependencies
 Artwork is rendered to an HTML Canvas by a Processing.js script, which is the Javascript adaptation of the Processing language. 
 
-More information and full documentation for the Processing.js library is at http://processing.js.org/.
+More information and full documentation for the Processing.js library is at http://processing.org/.
 
 # Execution
 To run this code and generate a random artwork, simply open `index.html` in a modern web browser.
