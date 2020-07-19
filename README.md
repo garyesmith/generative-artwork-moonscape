@@ -1,6 +1,6 @@
 # Generative Artwork: "Moonscape"
 
-A Processing.js/Canvas code-generated landscape featuring a moon and trees reflected on water.
+A Processing.js code-generated landscape featuring a moon and trees reflected on water.
 
 This is a simplified version of the code used to generate the Moonscape artworks on https://www.genartive.com.
 
